@@ -20,7 +20,7 @@
         { id: 'p4', name: '1 Litre Pouch', cap: '1 L', img: './assets/product-images/product-1l-pouch.png' },
         { id: 'p5', name: '2 Litre PET Re-sealable Bottle', cap: '2 L', img: './assets/product-images/product-2l-bottle.png' },
         { id: 'p5', name: '2 Litre Re-sealable Plastic Container', cap: '2 L', img: './assets/product-images/product-2l-container.png' },
-        { id: 'p6', name: '3 Litre Re-sealable Plastic Container', cap: '2 L', img: './assets/product-images/product-3l-container.png' },
+        { id: 'p6', name: '3 Litre Re-sealable Plastic Container', cap: '3 L', img: './assets/product-images/product-3l-container.png' },
         { id: 'p7', name: '5 Litre Re-sealable Plastic Container', cap: '5 L', img: './assets/product-images/product-2l-container.png' }
     ];
 
