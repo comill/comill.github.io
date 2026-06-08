@@ -14,14 +14,14 @@
     document.getElementById('footer') && (document.getElementById('footer').innerHTML = footerHtml);
 
     const products = [
-        { id: 'p1', name: '500 ml PET Bottle', cap: '500 ml', img: './assets/product-images/product-500ml-bottle.png' },
-        { id: 'p2', name: '500 ml Pouch', cap: '500 ml', img: './assets/product-images/product-500ml-pouch.png' },
-        { id: 'p3', name: '900 ml PET Bottle', cap: '900 ml', img: './assets/product-images/product-1l-bottle.png' },
-        { id: 'p4', name: '900 ml Pouch', cap: '900 ml', img: './assets/product-images/product-1l-pouch.png' },
-        { id: 'p5', name: '2 Litre PET Bottle', cap: '2 L', img: './assets/product-images/product-2l-bottle.png' },
-        { id: 'p5', name: '2 Litre Plastic Container', cap: '2 L', img: './assets/product-images/product-2l-container.png' },
-        { id: 'p6', name: '3 Litre Plastic Container', cap: '3 L', img: './assets/product-images/product-3l-container.png' },
-        { id: 'p7', name: '5 Litre Plastic Container', cap: '5 L', img: './assets/product-images/product-2l-container.png' }
+        { id: 'p1', name: '500 ml PET Bottle', cap: '500 ml', img: './assets/product-images/product-500ml-bottle.jpg' },
+        { id: 'p2', name: '500 ml Pouch', cap: '500 ml', img: './assets/product-images/product-500ml-pouch.jpg' },
+        { id: 'p3', name: '900 ml PET Bottle', cap: '900 ml', img: './assets/product-images/product-1l-bottle.jpg' },
+        { id: 'p4', name: '900 ml Pouch', cap: '900 ml', img: './assets/product-images/product-1l-pouch.jpg' },
+        { id: 'p5', name: '2 Litre PET Bottle', cap: '2 L', img: './assets/product-images/product-2l-bottle.jpg' },
+        { id: 'p5', name: '2 Litre Plastic Container', cap: '2 L', img: './assets/product-images/product-2l-container.jpg' },
+        { id: 'p6', name: '3 Litre Plastic Container', cap: '3 L', img: './assets/product-images/product-3l-container.jpg' },
+        { id: 'p7', name: '5 Litre Plastic Container', cap: '5 L', img: './assets/product-images/product-2l-container.jpg' }
     ];
 
     function renderProducts(el) {
