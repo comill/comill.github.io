@@ -2,8 +2,15 @@
 (function () {
     const headerHtml = `
     <header class="site-header">
-      <div class="container" style="display:flex;align-items:center;justify-content:space-between;gap:1rem">
-        <a href="/"><span class="logo">Citco</span></a>
+      <div class="container site-header-row">
+        <div class="brand-block">
+          <a href="/" class="logo-link"><span class="logo">Citco</span></a>
+          <div class="brand-watermark">
+            <span class="brand-line">Right Way, Every Day</span>
+            <span class="brand-line">എന്നും ശരിയുടെ വഴി</span>
+            <!-- <span class="brand-line">हर दिन, सही राह।</span> -->
+          </div>
+        </div>
         <nav class="nav"><a href="./about.html">About</a> | <a href="./products.html">Products</a> | <a href="./manufacturing.html">Process</a> | <a href="./certifications.html">Certifications</a> | <a href="./contact.html">Contact</a></nav>
       </div>
     </header>`;
