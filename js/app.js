@@ -16,12 +16,12 @@
     const products = [
         { id: 'p1', name: '500 ml PET Bottle', cap: '500 ml', img: './assets/product-images/product-500ml-bottle.jpg' },
         { id: 'p2', name: '500 ml Pouch', cap: '500 ml', img: './assets/product-images/product-500ml-pouch.jpg' },
-        { id: 'p3', name: '900 ml PET Bottle', cap: '900 ml', img: './assets/product-images/product-1l-bottle.jpg' },
-        { id: 'p4', name: '900 ml Pouch', cap: '900 ml', img: './assets/product-images/product-1l-pouch.jpg' },
-        { id: 'p5', name: '2 Litre PET Bottle', cap: '2 L', img: './assets/product-images/product-2l-bottle.jpg' },
-        { id: 'p5', name: '2 Litre Plastic Container', cap: '2 L', img: './assets/product-images/product-2l-container.jpg' },
-        { id: 'p6', name: '3 Litre Plastic Container', cap: '3 L', img: './assets/product-images/product-3l-container.jpg' },
-        { id: 'p7', name: '5 Litre Plastic Container', cap: '5 L', img: './assets/product-images/product-2l-container.jpg' }
+        { id: 'p3', name: '1 Litre PET Bottle', cap: '1 Litre', img: './assets/product-images/product-1l-bottle.jpg' },
+        { id: 'p4', name: '1 Litre Pouch', cap: '1 Litre', img: './assets/product-images/product-1l-pouch.jpg' },
+        { id: 'p5', name: '2 Litre PET Bottle', cap: '2 Litre', img: './assets/product-images/product-2l-bottle.jpg' },
+        { id: 'p5', name: '2 Litre Plastic Container', cap: '2 Litre', img: './assets/product-images/product-2l-container.jpg' },
+        { id: 'p6', name: '3 Litre Plastic Container', cap: '3 Litre', img: './assets/product-images/product-3l-container.jpg' },
+        { id: 'p7', name: '5 Litre Plastic Container', cap: '5 Litre', img: './assets/product-images/product-2l-container.jpg' }
     ];
 
     function renderProducts(el) {
